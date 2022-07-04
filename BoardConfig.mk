@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/realme/RMX2185
+DEVICE_PATH := device/oppo/cph2349
 
 # Architecture
 TARGET_ARCH := arm64
